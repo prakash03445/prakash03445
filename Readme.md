@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jayapragash!
 
-I am a **passionate software developer** who enjoys building **high-performance, scalable, and reliable applications**.  
-I love solving complex problems, exploring new technologies, and writing clean, maintainable code.
+I am a **passionate software developer** who enjoys building reliable applications, solving problems, and learning new technologies.
+
 
 ## 💻 About Me
 - 🎓 B.Tech Graduate  
