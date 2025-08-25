@@ -5,7 +5,7 @@ I am a **passionate software developer** who enjoys building reliable applicatio
 
 ## 💻 About Me
 - 🎓 B.Tech Graduate  
-- 🚀 Aiming for **Software Development Engineer (SDE)** roles  
+- 🚀 Aiming for **Software Development Engineer** roles  
 - 🌱 Continuously learning **new technologies, best practices, and software design principles**  
 
 ## 🛠️ Skills
